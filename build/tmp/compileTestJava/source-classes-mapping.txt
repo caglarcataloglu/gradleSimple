@@ -1,0 +1,2 @@
+com/caglar/MyApplicationTest.java
+ com.caglar.MyApplicationTest

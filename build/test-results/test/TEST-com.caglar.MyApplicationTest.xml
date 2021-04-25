@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.caglar.MyApplicationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-25T15:06:58" hostname="CACA-PC" time="0.003">
+  <properties/>
+  <testcase name="testSomething" classname="com.caglar.MyApplicationTest" time="0.003"/>
+  <system-out><![CDATA[It workssss!!!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
